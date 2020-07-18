@@ -1,5 +1,6 @@
 npm install
 ```
 
-You are ready to go!
-use middy library for middleware services
+Serverless Framework
+IaC
+uses middy library to support middleware services
